@@ -1,0 +1,4 @@
+[
+    {"coin": "bitcoin", "direction": "above", "price": 100000},
+    {"coin": "ethereum", "direction": "below", "price": 2000}
+]
